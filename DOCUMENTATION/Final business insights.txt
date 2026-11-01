@@ -1,17 +1,127 @@
---- Technology is the strongest-performing product category, generating the highest sales and profit. Office Supplies also demonstrates strong profitability. However, Furniture has a significantly lower profit margin of 2.61%, suggesting that its pricing, discounting, or product cost structure should be investigated.
+# Superstore Sales Analysis – Key Business Insights & Recommendations
 
+## 1. Overall Business Performance
 
---- The West region demonstrates the strongest overall performance, recording the highest sales, profit and profit margin. In contrast, the Central region has the lowest profit margin at 7.92%, indicating an opportunity to investigate its pricing, discounting and product profitability. The South region generates the lowest sales but maintains a higher profit margin than Central.
+The Superstore generated total sales of **$2,326,534.52** and total profit of **$292,297.40**, achieving an overall profit margin of **12.56%** across 5,111 unique orders and 804 customers.
 
+This indicates that the business is generating positive profits, but there is an opportunity to improve profitability by focusing on product-level performance, discount management, and regional efficiency.
 
---- Monthly sales demonstrate considerable fluctuations throughout the observed period, with a general upward trend toward the later months. This suggests improving sales performance over time, although some months experience significant declines.
+**Business Recommendations:**
+- Monitor sales and profit margins together rather than evaluating revenue alone.
+- Identify products and customer segments that generate strong profits.
+- Review low-margin business areas to identify opportunities for improvement.
 
---- The business demonstrated strong sales and profit growth from 2024 onward. The year 2026 recorded the highest sales and total profit, while 2025 achieved the highest profit margin of 13.46%. This indicates that higher sales do not always translate into a higher profit margin.
+## 2. Product Category Performance
 
---- The Canon imageCLASS 2200 Advanced Copier is the highest-revenue product, generating 61,599.83 in sales and 25,199.94 in profit. However, some other high-revenue products generate negative profits, indicating that strong sales do not always guarantee profitability.
+Technology was the strongest-performing category, generating **$839,893.35 in sales** and **$146,544.02 in profit**, with a profit margin of **17.45%**.
 
---- The Consumer segment generates the highest sales and total profit, making it the largest revenue contributor. However, Home Office has the highest profit margin at 14.02%, indicating stronger profitability relative to its sales. The business could investigate opportunities to grow Home Office sales while maintaining its margin.
+Office Supplies also performed well, achieving a profit margin of **17.22%**. In contrast, Furniture generated **$754,747.94 in sales** but only **$19,729.94 in profit**, resulting in a significantly lower margin of **2.61%**.
 
---- The analysis shows a strong association between higher discount levels and lower profitability. Transactions with discounts of 0%, 10% and 20% generated positive total profits, while discount levels from 30% to 80% generated losses. The business should review its discount strategy, particularly at higher discount levels.
+Although Furniture contributes substantial revenue, its profitability is relatively weak.
 
---- The overall order return rate is 5.79%, indicating that a relatively small proportion of orders were returned. Further analysis by product category and region could help identify areas where return rates may be higher.
+**Business Recommendations:**
+- Investigate Furniture products with low or negative profit margins.
+- Review pricing, product costs, and discount policies within the Furniture category.
+- Explore opportunities to grow Technology and Office Supplies sales while maintaining their healthy margins.
+
+## 3. Regional Sales and Profitability
+
+The West region recorded the highest sales of **$739,813.71** and the highest profit of **$110,799.05**, with a profit margin of **14.98%**.
+
+The East region followed with **$94,883.27 in profit**. However, the Central region had the lowest profit margin at **7.92%**, despite generating more sales than the South region.
+
+This suggests that regional performance should be evaluated using profitability as well as sales volume.
+
+**Business Recommendations:**
+- Investigate the factors contributing to the West region's strong profitability.
+- Review discounting and product mix in the Central region.
+- Examine opportunities to improve the South region's sales performance while maintaining profitability.
+
+## 4. Yearly Sales and Profit Trends
+
+Sales and profit increased across the observed years. Sales grew from **$472,992.98 in 2024** to **$745,567.44 in 2026**.
+
+The highest profit margin was recorded in 2025 at **13.46%**, compared with **12.87% in 2026**.
+
+This indicates that revenue growth does not necessarily result in an improvement in profit margin.
+
+**Business Recommendations:**
+- Monitor profit margin alongside yearly revenue growth.
+- Investigate changes in discount levels, product mix, and costs.
+- Compare complete reporting periods wherever possible, since 2026 may represent a partial year.
+
+## 5. Product-Level Performance
+
+The **Canon imageCLASS 2200 Advanced Copier** was the highest-revenue product, generating **$61,599.83 in sales** and **$25,199.94 in profit**.
+
+However, several other high-revenue products generated negative or zero profit. For example, the Cisco TelePresence System EX90 generated **$22,638.48 in sales** but recorded a loss of **$1,811.08**.
+
+This demonstrates that high sales volume does not always translate into strong financial performance.
+
+**Business Recommendations:**
+- Identify high-revenue products with low or negative profits.
+- Review product pricing, discounts, and costs before prioritizing products for promotion.
+- Use both sales and profit rankings when making product-level decisions.
+
+## 6. Customer Segment Analysis
+
+The Consumer segment generated the highest sales of **$1,170,659.75** and the highest profit of **$136,371.48**.
+
+However, the Home Office segment achieved the highest profit margin at **14.02%**, compared with 11.65% for Consumer and 13.17% for Corporate.
+
+This suggests that although Consumer customers contribute the largest share of revenue, Home Office customers generate stronger profitability relative to sales.
+
+**Business Recommendations:**
+- Maintain customer engagement and retention strategies for the Consumer segment.
+- Explore opportunities to increase Home Office sales.
+- Analyse purchasing patterns to identify products and offers that appeal to more profitable customer segments.
+
+## 7. Discount and Profitability Analysis
+
+The analysis shows a clear association between higher discount levels and weaker aggregate profitability.
+
+Transactions with discounts of 0%, 10%, and 20% generated positive aggregate profits. However, discount levels from 30% to 80% recorded negative aggregate profits.
+
+For example, transactions with an 80% discount generated **$16,980.07 in sales** but recorded a loss of **$30,565.36**.
+
+This suggests that aggressive discounting may be associated with substantial profitability challenges.
+
+**Business Recommendations:**
+- Review discount policies, particularly discounts of 30% or higher.
+- Evaluate whether promotional offers generate sufficient additional sales to justify reduced margins.
+- Introduce profitability checks before approving high-discount transactions.
+
+*Note: These results show an association between discount levels and profitability. They do not independently establish that discounts caused the losses.*
+
+## 8. Order Returns Analysis
+
+The business recorded **296 returned orders out of 5,111 unique orders**, resulting in an overall order return rate of **5.79%**.
+
+Although most orders were not returned, understanding the reasons behind returned orders could help identify opportunities to improve customer satisfaction and reduce avoidable costs.
+
+**Business Recommendations:**
+- Investigate return rates across product categories and regions.
+- Identify frequently returned products and investigate possible quality or product-description issues.
+- Monitor return patterns over time to identify recurring problems.
+
+*Note: The current returns dataset identifies returned orders but does not provide detailed return reasons.*
+
+## 9. Overall Strategic Recommendations
+
+Based on the analysis, the following actions could help improve business performance:
+
+1. **Improve Furniture profitability:** Investigate low-margin products, pricing, and discounting practices.
+2. **Strengthen discount management:** Review high-discount transactions to reduce unprofitable sales.
+3. **Expand profitable product categories:** Explore opportunities in Technology and Office Supplies.
+4. **Improve regional performance:** Investigate the Central region's relatively low profit margin.
+5. **Develop customer segment strategies:** Explore opportunities to grow the profitable Home Office segment.
+6. **Monitor product profitability:** Evaluate products using both sales and profit metrics.
+7. **Reduce avoidable returns:** Investigate returned orders by product and region.
+
+## 10. Conclusion
+
+The Superstore analysis demonstrates that strong revenue does not always translate into strong profitability. Although the business generated over $2.3 million in sales, differences in category, regional, product, customer, and discount performance reveal opportunities for improvement.
+
+By focusing on profitable growth, effective discount management, regional performance, and customer retention, the business can make more informed decisions and improve its overall financial performance.
+
+This project demonstrates how SQL, Python, and Power BI can be combined to transform retail data into actionable business insights.
