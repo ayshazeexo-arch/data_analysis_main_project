@@ -2,54 +2,52 @@
 # Superstore Sales Analysis
 
 ## Project Overview
-This project analyses retail sales data using SQL, Python and Power BI to identify business trends, evaluate profitability and understand customer and product performance.
+An end-to-end retail sales analysis project using SQL, Python, and Power BI. The goal is to evaluate sales performance, profitability, customer segments, regional trends, product performance, and order returns.
 
-## Business Objectives
-- Analyse overall sales and profitability.
-- Identify high-performing product categories.
-- Evaluate regional sales performance.
-- Examine monthly and yearly sales trends.
-- Identify top-selling products.
-- Analyse customer segments.
-- Investigate the relationship between discounts and profitability.
-- Evaluate product returns.
-
-## Tools and Technologies
+## Tools & Technologies
 - MySQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Google Colab
 - Microsoft Power BI
 - Microsoft Excel
 
-## Key Findings
+## Dataset
+The project uses the Sample Superstore dataset, containing three files:
+- Orders
+- People
+- Returns
+
+## Key Business Findings
 - Total Sales: 2,326,534.52
 - Total Profit: 292,297.40
 - Overall Profit Margin: 12.56%
 - Total Orders: 5,111
 - Unique Customers: 804
 - Order Return Rate: 5.79%
-
-### Additional Insights
 - Technology generated the highest category sales and profit.
 - Furniture had the lowest category profit margin at 2.61%.
-- West was the highest-performing region by sales and profit.
-- Consumer customers generated the highest total sales and profit.
+- The West region recorded the highest sales and profit.
 - Home Office had the highest customer-segment profit margin at 14.02%.
 - Transactions with discounts of 30% or higher recorded negative aggregate profits.
 
 ## Project Structure
-- Dataset: Original CSV datasets.
-- Documentation: Business questions and data quality report.
-- SQL: Data inspection, cleaning and analysis queries.
-- Python: Exploratory data analysis notebook.
-- PowerBI: Interactive dashboard.
-- Screenshots: Dashboard previews.
+- `Dataset/` – Source CSV files
+- `SQL/` – Data import, quality checks, and exploratory queries
+- `Python/` – Exploratory data analysis notebook
+- `PowerBI/` – Interactive Power BI dashboard
+- `Documentation/` – Business questions and final insights
+- `Screenshots/` – Dashboard previews
 
 ## Dashboard
-The Power BI report contains two pages:
-
+The Power BI dashboard contains two pages:
 1. Sales Overview
 2. Profitability & Customer Insights
 
+## How to Explore
+1. Review the business questions in the Documentation folder.
+2. Explore the SQL scripts.
+3. Open the Python notebook to review the analysis.
+4. View the dashboard screenshots or download the Power BI file.
+
 ## Conclusion
-This project demonstrates how SQL, Python and Power BI can be used together to transform retail data into meaningful business insights and recommendations.
+This project demonstrates how SQL, Python, and Power BI can be combined to analyse retail data and communicate actionable business insights.
