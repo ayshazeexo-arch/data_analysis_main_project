@@ -1,0 +1,55 @@
+# Superstore Sales Analysis – Business Questions
+
+## 1. Project Background
+The objective of this project is to analyse retail sales data to understand business performance, profitability, customer behaviour and product performance.
+
+## 2. Business Objectives
+- Evaluate overall sales and profit performance.
+- Identify high-performing and low-performing products.
+- Understand customer purchasing behaviour.
+- Compare regional sales performance.
+- Investigate returned orders.
+- Provide actionable business recommendations.
+
+## 3. Key Business Questions
+
+### A. Sales Performance
+1. What is the total revenue generated?
+2. Which months generate the highest and lowest sales?
+3. How do sales change year over year?
+4. Which regions contribute the most revenue?
+
+### B. Profitability Analysis
+5. What is the total profit and profit margin?
+6. Which products generate the highest profit?
+7. Which products generate losses?
+8. How do discounts affect profitability?
+
+### C. Customer Analysis
+9. Which customer segments generate the highest sales?
+10. Who are the top 10 customers by revenue?
+11. Which customers contribute the most profit?
+
+### D. Product Analysis
+12. Which product categories generate the highest sales?
+13. Which sub-categories are the most profitable?
+14. Which products have the highest sales volume?
+
+### E. Regional and Returns Analysis
+15. Which region generates the highest sales and profit?
+16. Which regional manager oversees each region?
+17. What percentage of orders are returned?
+18. Which regions have the highest return rates?
+
+## 4. Tools
+- Excel
+- MySQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+
+## 5. Expected Deliverables
+- Cleaned dataset
+- SQL analysis scripts
+- Python EDA notebook
+- Interactive Power BI dashboard
+- Business insights and recommendations

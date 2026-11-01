@@ -1,0 +1,17 @@
+--- Technology is the strongest-performing product category, generating the highest sales and profit. Office Supplies also demonstrates strong profitability. However, Furniture has a significantly lower profit margin of 2.61%, suggesting that its pricing, discounting, or product cost structure should be investigated.
+
+
+--- The West region demonstrates the strongest overall performance, recording the highest sales, profit and profit margin. In contrast, the Central region has the lowest profit margin at 7.92%, indicating an opportunity to investigate its pricing, discounting and product profitability. The South region generates the lowest sales but maintains a higher profit margin than Central.
+
+
+--- Monthly sales demonstrate considerable fluctuations throughout the observed period, with a general upward trend toward the later months. This suggests improving sales performance over time, although some months experience significant declines.
+
+--- The business demonstrated strong sales and profit growth from 2024 onward. The year 2026 recorded the highest sales and total profit, while 2025 achieved the highest profit margin of 13.46%. This indicates that higher sales do not always translate into a higher profit margin.
+
+--- The Canon imageCLASS 2200 Advanced Copier is the highest-revenue product, generating 61,599.83 in sales and 25,199.94 in profit. However, some other high-revenue products generate negative profits, indicating that strong sales do not always guarantee profitability.
+
+--- The Consumer segment generates the highest sales and total profit, making it the largest revenue contributor. However, Home Office has the highest profit margin at 14.02%, indicating stronger profitability relative to its sales. The business could investigate opportunities to grow Home Office sales while maintaining its margin.
+
+--- The analysis shows a strong association between higher discount levels and lower profitability. Transactions with discounts of 0%, 10% and 20% generated positive total profits, while discount levels from 30% to 80% generated losses. The business should review its discount strategy, particularly at higher discount levels.
+
+--- The overall order return rate is 5.79%, indicating that a relatively small proportion of orders were returned. Further analysis by product category and region could help identify areas where return rates may be higher.
