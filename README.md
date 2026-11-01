@@ -31,12 +31,12 @@ The project uses the Sample Superstore dataset, containing three files:
 - Transactions with discounts of 30% or higher recorded negative aggregate profits.
 
 ## Project Structure
-- `Dataset/` – Source CSV files
+- `DATASET/` – Source CSV files
 - `SQL/` – Data import, quality checks, and exploratory queries
-- `Python/` – Exploratory data analysis notebook
-- `PowerBI/` – Interactive Power BI dashboard
-- `Documentation/` – Business questions and final insights
-- `Screenshots/` – Dashboard previews
+- `PYTHON/` – Exploratory data analysis notebook
+- `POWER BI/` – Interactive Power BI dashboard
+- `DOCUMENTATION/` – Business questions and final insights
+- `SCREENSHOTS/` – Dashboard previews
 
 ## Dashboard
 The Power BI dashboard contains two pages:
